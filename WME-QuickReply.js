@@ -19,7 +19,7 @@ let UR_form_ul = UR_form.getElementsByTagName('ul');
 
 
 
-// Ищем кол-во ul (???? не получается lastchild)
+// Ищем кол-во ul (???? не получается lastchild) //UR_form.getElementsByTagName('ul').lastchild
 let UR_num = UR_form.getElementsByTagName('ul').length;
 
 // Переходим к последней ul
