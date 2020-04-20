@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         WME Quick Reply
-// @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  try to take over the world!
 // @author       You
 // @include      https://*waze.com/*editor*
 // @exclude      https://*waze.com/*user/editor*
+// @updateURL    https://github.com/SapozhnikUA/WME-QuickReply/blob/master/WME-QuickReply.js
+// @downloadURL  https://github.com/SapozhnikUA/WME-QuickReply/blob/master/WME-QuickReply.js
 // @grant        none
 // ==/UserScript==
 
